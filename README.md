@@ -5,14 +5,13 @@ Welcome to my data analyzing portfolio! Here, I document a summary of my project
 ***
 
 ## 📚 Table of Contents
-- [Tableau](#tableau)
-- [Excel](#excel)
+- [Tableau & Excel](#tableau & excel)
 - [SQL](#sql)
 - [Python](#python)
 
 ***
 
-# Tableau
+# Tableau & Excel
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
