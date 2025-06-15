@@ -5,7 +5,7 @@ Welcome to my data analyzing portfolio! Here, I document a summary of my project
 ***
 
 ## 📚 Table of Contents
-- [Tableau & Excel](#tableau & excel)
+- [Tableau & Excel](#tableau&excel)
 - [SQL](#sql)
 - [Python](#python)
 
