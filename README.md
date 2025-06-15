@@ -11,7 +11,7 @@ Welcome to my data analyzing portfolio! Here, I document a summary of my project
 
 ***
 
-# Tableau & Excel
+# Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
